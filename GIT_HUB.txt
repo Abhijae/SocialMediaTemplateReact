@@ -1,0 +1,23 @@
+echo "# socialMediaTemplate" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Abhijae/socialMediaTemplate.git
+git push -u origin main
+…or push an existing repository from the command line
+git remote add origin https://github.com/Abhijae/socialMediaTemplate.git
+git branch -M main
+git push -u origin main
+
+
+git remote set-url origin https://github.com/Abhijae/socialMediaTemplate.git
+
+git remote set-url origin https://yourusername@github.com/user/repo.git
+
+
+SocialMediaTemplate
+
+git remote set-url origin https://github.com/Abhijae/SocialMediaTemplate.git
+
+git remote add origin https://github.com/Abhijae/SocialMediaTemplateReact.git
